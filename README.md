@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Data Science...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- I love to explore new adventurous places and to do photography
+- I am looking forward to learn more and more in my internship
+- 
 
 <!---
 Pratiksha-Rawat/Pratiksha-Rawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
